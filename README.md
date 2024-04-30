@@ -4,7 +4,6 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 ## To Build
 `docker-compose build`
-`docker-compose run app bash -c "bundle install && rspec --init"`
 
 ## To Run
 `docker-compose run app bash`
